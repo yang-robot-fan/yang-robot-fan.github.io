@@ -51,3 +51,10 @@ Email: [zekaiyang06@gmail.com](mailto:zekaiyang06@gmail.com)
 
 
 ![Zekai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yang-robot-fan&show_icons=true&theme=radical)
+
+
+A Sim-Racer & Motorsports Enthusiast
+
+In racing, the 'Optimal Line' is far from a static path; it is a complex, dynamic constraint problem that evolves with every lap. Whether I’m navigating the terrifying, high-speed compression of Eau Rouge at Spa-Francorchamps or meticulously fine-tuning suspension geometry and aero-maps in a simulator, I am captivated by the constant dialogue between mechanical limits and human intuition.
+
+For me, racing is a laboratory for the mind. It’s about more than just the adrenaline of speed; it’s the rigorous process of analyzing telemetry data, mastering the subtle art of trail-braking and weight transfer, and making split-second, high-stakes decisions at the ragged edge of traction. I see the cockpit as a high-pressure environment for real-time optimization, where every millisecond is a testament to the harmony between data-driven strategy and raw competitive instinct. It is where my passion for physics, control theory, and pure performance converges.
