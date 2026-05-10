@@ -17,10 +17,11 @@ I am an undergraduate student majoring in Information and Computing Science, wit
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
  💻 Stack Collage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,cursor,pycharm,mysql,js,git,docker,codex" />
+  <img src="https://skillicons.dev/icons?i=vscode,latex,pycharm,mysql,js,git,docker,codex" />
 </p>
 
 🚀 Featured Projects
