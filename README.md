@@ -69,3 +69,9 @@ Racing: Passionate about motorsports and the thrill of speed 🏎️
 </p>
 
 <br clear="right">
+
+## 📺 Anime Collection
+
+<p align="center">
+  <img src="https://github-readme-carousel.vercel.app/?items=https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/1.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/2.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/3.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/4.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/5.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/6.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/7.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/8.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/9.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/10.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/11.jpg,https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/12.jpg&duration=3000&width=250" width="250" alt="Anime Collection Carousel" />
+</p>
