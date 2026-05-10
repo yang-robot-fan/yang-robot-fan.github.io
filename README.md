@@ -54,14 +54,18 @@ Racing: Passionate about motorsports and the thrill of speed 🏎️
 ![Zekai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yang-robot-fan&show_icons=true&theme=radical)
 
 
-## A Sim-Racer & Motorsports Enthusiast
+## A new-generation karting & motorsports enthusiast
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/a1fb1347-96de-4dd7-909d-0bbf339aa5c6" align="right" width="300" style="margin-left: 15px; border-radius: 8px;">
 
-  In racing, the <b>'Optimal Line'</b> is far from a static path; it is a complex, dynamic constraint problem that evolves with every lap. Whether I’m navigating the terrifying, high-speed compression of <b>Eau Rouge at Spa-Francorchamps</b> or meticulously fine-tuning suspension geometry and aero-maps in a simulator, I am captivated by the constant dialogue between mechanical limits and human intuition. 
+  Passionate about karting, Formula racing, and the intersection between motorsports and machine learning.
   <br><br>
-  For me, racing is a laboratory for the mind. It’s about more than just the adrenaline of speed; it’s the rigorous process of <b>analyzing telemetry data</b>, mastering the subtle art of trail-braking and weight transfer, and making split-second, high-stakes decisions at the ragged edge of traction. I see the cockpit as a high-pressure environment for real-time optimization, where every millisecond is a testament to the harmony between data-driven strategy and raw competitive instinct. It is where my passion for physics, control theory, and pure performance converges.
+  I enjoy the raw, immediate feedback of karting — the way every steering input, braking point, throttle correction, and racing line choice is reflected instantly through the chassis. Whether I’m attacking a tight hairpin, managing grip through a fast corner, or searching for the perfect exit speed, karting feels like a real-time optimization problem powered by both instinct and analysis.
+  <br><br>
+  Watching motorsport is another way I study performance. From Formula 1 strategy calls to tire degradation, overtaking dynamics, telemetry interpretation, and race pace evolution, every race becomes a lesson in decision-making under uncertainty. I’m especially fascinated by how data, physics, and human intuition work together at the limit.
+  <br><br>
+  For me, machine learning and racing share the same core spirit: observe, model, predict, improve. Just as a driver learns from every lap, an algorithm learns from data. Karting gives me a physical sense of control and feedback, while machine learning gives me a deeper framework to understand patterns, optimize behavior, and push performance further. Together, they represent my passion for speed, intelligence, and continuous improvement.
 </p>
 
 <br clear="right">
