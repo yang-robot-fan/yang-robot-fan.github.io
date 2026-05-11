@@ -73,18 +73,5 @@ Racing: Passionate about motorsports and the thrill of speed 🏎️
 ## 📺An anime lover.
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/1.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/2.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/3.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/4.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/5.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/6.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/7.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/8.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/9.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/10.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/11.jpg" width="180" />
-    <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/12.jpg" width="180" />
-  </marquee>
+  <img src="https://raw.githubusercontent.com/yang-robot-fan/anime-gallery/main/anime-carousel.gif" alt="Anime Collection" width="900" />
 </p>
