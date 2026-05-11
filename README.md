@@ -5,13 +5,15 @@
 </p>
 I am an undergraduate student majoring in Information and Computing Science, with a strong passion for Machine Learning and Artificial Intelligence. I enjoy leveraging data modeling and deep learning technologies to solve complex, real-world problems.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-D95319?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LINGO](https://img.shields.io/badge/LINGO-005BBB?style=for-the-badge&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -23,12 +25,18 @@ I am an undergraduate student majoring in Information and Computing Science, wit
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
-💻 Stack Collage
+## 💻 Stack Collage
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,latex,pycharm,mysql,js,git,docker,codex" />
-  <br> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=pycharm,anaconda,py,pytorch,mysql,js,git,docker,latex,cursor" height="48" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINGO-005BBB?style=for-the-badge&logoColor=white" />
 </p>
 🚀 Featured Projects
 
