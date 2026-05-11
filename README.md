@@ -25,10 +25,9 @@ I am an undergraduate student majoring in Information and Computing Science, wit
 💻 Stack Collage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,latex,pycharm,mysql,js,git,docker,codex" />
-  <br>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
+  <br> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/LINGO-005BBB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
 </p>
 🚀 Featured Projects
 
