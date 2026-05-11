@@ -9,6 +9,8 @@ I am an undergraduate student majoring in Information and Computing Science, wit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![LINGO](https://img.shields.io/badge/LINGO-005BBB?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -25,6 +27,8 @@ I am an undergraduate student majoring in Information and Computing Science, wit
   <img src="https://skillicons.dev/icons?i=vscode,latex,pycharm,mysql,js,git,docker,codex" />
   <br>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/LINGO-005BBB?style=for-the-badge&logoColor=white" />
 </p>
 🚀 Featured Projects
 
