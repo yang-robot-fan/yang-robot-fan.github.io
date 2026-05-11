@@ -70,7 +70,7 @@ Racing: Passionate about motorsports and the thrill of speed 🏎️
 
 <br clear="right">
 
-## 📺 Anime Collection
+## 📺An anime lover.
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
