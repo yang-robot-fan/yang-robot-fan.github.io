@@ -1,7 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3131&width=435&lines=Hi+there,+I'm+Zekai+Yang+👋)](https://git.io/typing-svg) 
 
-<img width="1279" height="1951" alt="2d727c188dd3a28527f2834eff5d1f4e" src="https://github.com/user-attachments/assets/75727d86-5061-415a-8851-7f61b14ee005" />
-
+<p align="left">
+  <img width="426" height="650" alt="2d727c188dd3a28527f2834eff5d1f4e" src="https://github.com/user-attachments/assets/75727d86-5061-415a-8851-7f61b14ee005" />
+</p>
 I am an undergraduate student majoring in Information and Computing Science, with a strong passion for Machine Learning and Artificial Intelligence. I enjoy leveraging data modeling and deep learning technologies to solve complex, real-world problems.
 
 🛠 Tech Stack
